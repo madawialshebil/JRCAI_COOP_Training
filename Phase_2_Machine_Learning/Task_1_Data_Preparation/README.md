@@ -25,9 +25,4 @@ The assignment involved applying data preparation and preprocessing techniques u
 
 ## Files
 
-This folder contains the updated Assignment 2 files, Jupyter Notebook implementation, and supporting materials.
-
-## Supervisor
-
-Dr. Safwan Al-Selwi  
-Joint Research Center for Artificial Intelligence — KFUPM
+This folder contains the report, Jupyter Notebook implementation, and supporting materials.
