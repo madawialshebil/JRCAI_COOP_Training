@@ -10,4 +10,7 @@ This phase focuses on research skills, Python programming, and data science fund
 ### Phase 2: Machine Learning Foundations
 This phase focuses on data preparation, machine learning techniques, model development, and evaluation.
 
+### Phase 3: Deep Learning with PyTorch
+This phase focuses on PyTorch fundamentals, deep learning workflows, model training, and evaluation.
+
 Additional phases and projects will be added as the training progresses.
