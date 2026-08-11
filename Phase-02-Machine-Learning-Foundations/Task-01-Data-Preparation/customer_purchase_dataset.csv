@@ -1,6 +1,6 @@
 CustomerID,Age,Income,Gender,ProductCategory,Purchased
 1,22,30000,Male,Electronics,Yes
-2,34,45000,Female,Clothing,No
+2,34,45000,Female,Clothing,No 
 3,,,Female,Electronics,Yes
 4,45,60000,Male,Furniture,Yes
 5,23,35000,Female,Electronics,No
