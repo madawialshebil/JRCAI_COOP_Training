@@ -20,3 +20,4 @@ Assignment 2 from BIT3343 Data Mining and Knowledge Discovery was completed as t
 - `Assignment2_Report.pdf` - Assignment report
 - `Assignment2.ipynb` - Jupyter Notebook implementation
 - `Assignment2.py` - Python script
+- `customer_purchase_dataset.csv` - Customer Purchases Dataset
