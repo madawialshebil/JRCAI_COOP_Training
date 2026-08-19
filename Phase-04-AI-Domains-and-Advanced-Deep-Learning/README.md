@@ -38,5 +38,5 @@ The selected Random Forest and BiLSTM models were carried forward to Phase 5 for
 
 ## Files
 - `01_Phase4_Temperature_Forecasting.ipynb` — complete Phase 4 model development, training, evaluation, and comparison.
-
+- `01_Phase4_Temperature_Forecasting.py` — complete Phase 4 model development, training, evaluation, and comparison.
 > The combined Phase 4 and Phase 5 presentation is included in the Phase 5 folder.
