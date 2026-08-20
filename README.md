@@ -1,4 +1,4 @@
-# JRCAI COOP Training
+# SDAIA-KFUPM JRCAI COOP Training
 
 This repository documents the assignments, reports, notebooks, and projects completed during my COOP training.
 
